@@ -1,0 +1,87 @@
+
+.BG {
+    height: 100vh;
+    background: url("../assets/Image/allBG/BG1.jpg");
+    background-size: cover;
+}
+
+.intro {
+    height: 370px;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+
+.title {
+    text-align: center;
+    font-size: 50px;
+    font-weight: 650;
+    line-height: 1;
+    text-shadow: 2px 2px rgb(183, 179, 179);
+}
+
+.title2 {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 650;
+    line-height: 2;
+    text-shadow: 2px 2px rgb(76, 76, 76);
+    text-align: center;
+    letter-spacing: 1px;
+}
+
+.Terpopuler {
+    height: auto;
+    background: url("../assets/Image/allBG/BG2.jpg");
+    background-size: cover;
+}
+
+.Internasional {
+    height: auto;
+    background: url("../assets/Image/allBG/BG3.jpg");
+    background-size: cover;
+}
+
+.Judulpopuler {
+    text-emphasis-color: rgb(183, 179, 179);
+    text-align: center;
+    font-size: 40px;
+    font-weight: 650;
+    line-height: 1;
+    text-shadow: 2px 2px rgb(255, 255, 255);
+    text-align: center;
+    letter-spacing: 1px;
+}
+
+.JudulInternasional{
+    text-emphasis-color: rgb(183, 179, 179);
+    text-align: center;
+    font-size: 40px;
+    font-weight: 650;
+    line-height: 1;
+    text-shadow: 2px 2px rgb(255, 255, 255);
+    text-align: center;
+    letter-spacing: 1px;
+}
+
+.Listwrapper {
+    padding-bottom: 35px;
+
+}
+
+.Listdestinasi {
+    height: auto;
+    background-color: rgb(255, 255, 255);
+    margin: 5px;
+    padding: 3px;
+}
+
+.image {
+    height: 400px;
+    border-radius: 0px 0px 25px 25px;
+}
+
+.Listbackground {
+    background-image: linear-gradient(to bottom, rgb(255, 255, 255), rgba(95, 219, 236, 0.502));
+    border-radius: 0px 0px 10px 10px;
+}
